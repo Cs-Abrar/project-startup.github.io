@@ -1,8 +1,3 @@
-# Responsive Startup Website
-
-A Tutorial for beginners on how to develop responsive websites using HTML & CSS
-
-![project image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ybd2otx2xwopmx4ahkra.png)
-
-- [view the live demo 🚀](https://responsive-startup-website.vercel.app/)
-- [download the design files here](https://www.figma.com/community/file/1150370769219258177)
+This is Project that i cloned from joy shaheb youtube channel. In this project i have created responsive small start up website with the help of html css and little bit of js.
+project-startup.github.io
+All credit goes to joy shaheb you can watch his videos on this channel link https://www.youtube.com/@JoyShaheb
